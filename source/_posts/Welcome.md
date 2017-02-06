@@ -1,7 +1,6 @@
 ---
-title: Welcome
-date: 2017-02-06 13:56:36
+title: welcome
+date: 2017-02-06 17:03:27
 tags:
 ---
-
-# Welcome to Galaxy Team's Blog
+# Welcome to Galaxy Team Blog
