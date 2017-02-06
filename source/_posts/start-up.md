@@ -47,7 +47,7 @@ hexo deploy
 
 ```
 git add .
-git ci -m "commit blogs"
+git commit -m "commit blogs"
 git pull --rebase
 git push origin hexo
 ```
