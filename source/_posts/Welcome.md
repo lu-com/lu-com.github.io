@@ -1,5 +1,5 @@
 ---
-title: welcome
+title: Welcome
 date: 2017-02-06 17:03:27
 tags:
 ---
